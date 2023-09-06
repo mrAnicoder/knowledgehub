@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Knowledge hub</string>
+    <string name="intro">
+        <b>  Hello guys! welcome to astrohub</b>
+        \nit is my first fully functionally android application.\nI hope you will enjoy this app,
+        make sure to give us ratings.
+        If you like this app, \nthen share with your friends.
+       \nThank you..
+
+
+    </string>
+    <string name="note">Note : here\'s some populor feilds of tech, you can select anyone for tech related info.</string>
+    <string name="android_intro"><b>Best Way to Become Android Developer – A Complete Roadmap</b>  </string>
+    <string name="android_rodmap">Android is an open-source operating system, based on the Linux kernel and used in mobile devices like smartphones, tablets, etc. Further, it was developed for smartwatches and Android TV. Each of them has a specialized interface. Android has been one of the best-selling OS for smartphones. Android OS was developed by Android Inc. which Google bought in 2005. Various applications like games, music player, camera, etc. are built for these smartphones for running on Android. Google Play Store features quite 3.3 million apps. Today, Android remains dominant on a global scale. Approximately 75% of the world population prefers using Android as against 15% of iOS. It is an operating system that has a huge market for apps.</string>
+    <string name="ios_logo">TODO</string>
+    <string name="webDev_logo">TODO</string>
+    <string name="ui_logo">TODO</string>
+    <string name="ai_logo">TODO</string>
+    <string name="hacker_logo">TODO</string>
+    <string name="android_logo">TODO</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="welcome_to_androidastro_hub">Welcome to Androidastro hub</string>
+    <string name="call_us">Call us!</string>
+</resources>
